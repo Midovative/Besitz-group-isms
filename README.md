@@ -27,7 +27,7 @@ This repository contains the company’s cybersecurity governance framework, pol
 
 **Name:** Afolabi Muhydeen Olalekan  
 **Title:** Chief Information Security Officer (CISO)  
-**Email:** security@besitzgroup.ng  
+**Email:** midocyberworld@gmail.com  
 
 ## ⚖️ License
 
